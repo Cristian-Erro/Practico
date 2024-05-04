@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practico3</string>
+    <string name="txtusuario">User:</string>
+    <string name="txtpassword">Password:</string>
+    <string name="btningresar">Login</string>
+    <string name="btnsalir">Logout</string>
+    <string name="btnacercade">About</string>
+    <string name="txtprincipal">Nvidia Corporation is a software and fabless company that designs graphics processing units (GPUs), application programming interfaces (APIs) for data science and high-performance computing, as well as system-on-chip units (SoCs) for mobile computing and the automotive market. Nvidia is a global leader in artificial intelligence hardware and software.</string>
+    <string name="btnvolverprincipal">Main menu</string>
+    <string name="btnmail">Email</string>
+    <string name="btnllamada">Call contact</string>
+</resources>
